@@ -5,4 +5,4 @@ To develop the features of your repository, fix the bug and do not want to affec
 Commit is regarded as a handover,in my opinion,however a snapshot according to the github docs.   
 Issue is related to commit,you can use issue to subscribe the change and the prospect of your repository.
 Pull request is a request to put your codes or opinion to the    
-![sata](F:/科协/asta.png)
+![sata](https://github.com/whiteker/1st-by-zwt/blob/main/asta.png)
